@@ -944,6 +944,7 @@ Gabrielle Jones
 -[PrajwalBorkar](https://github.com/PrajwalBorkar)
 -[Haseeb Siddiqui](https://github.com/hsbsid)
 -[KurXZ](https://github.com/kurxz/)
+-[Harsh Dubey](https://github.com/harsushka)
 -[Jose Romano](https://github.com/jromano8954)
 -[Jorge_Ar] (https://github.com/jamp-scp28)
 -[Derek hall](https://github.com/hderek22)
